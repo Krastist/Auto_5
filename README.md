@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4lqyrdl0q55naa3d?svg=true)](https://ci.appveyor.com/project/Krastist/auto-5)
